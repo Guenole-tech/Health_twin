@@ -1,0 +1,25 @@
+{
+  "ts": "2026-05-01 01:00:00",
+  "vitality_score": 81.8,
+  "hr": 51.9,
+  "hrv": 66.1,
+  "sleep_score": 67.9,
+  "stress_index": -1.122,
+  "sound_db": 47.0,
+  "voc_index": 0.369,
+  "skin_temp": 36.55,
+  "gsr": 2.62,
+  "steps_today": 13453,
+  "anomalies_today": 0,
+  "risks": {
+    "fatigue_chronique": 0.0,
+    "trouble_sommeil": 0.09,
+    "risque_cardiovasculaire": 0.001,
+    "resistance_insuline": 0.045,
+    "fatigue_sensorielle": 0.093,
+    "probleme_cutane": 0.001
+  },
+  "alerts": [
+    "✅ Tous les indicateurs dans la norme personnelle"
+  ]
+}
